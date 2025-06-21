@@ -1,5 +1,5 @@
 # About Me - Malu Araujo Azevedo
-Feito com base no exercício de criação de páginas web pessoais com HTML e CSS. Esta é uma página estática, com estrutura semântica, destinada à apresentação pessoal. Contém informações sobre mim, meus interesses, objetivos e formas de contato.
+Feito com base no exercício [Site Pessoal Sobre Mim](https://neps.academy/br/course/principios-basicos-do-desenvolvimento-web/lesson/site-pessoal-sobre-mim), do [Neps Academy](https://neps.academy). Esta é uma página estática, com estrutura semântica, destinada à apresentação pessoal. Contém informações sobre mim, meus interesses, objetivos e formas de contato.
 
 ## Instalação e Pré-requisitos
 Para visualizar o projeto, basta ter um navegador moderno instalado. No entanto, para editar, recomendo ter o VS Code ou outro editor de código com suporte a HTML/CSS.
