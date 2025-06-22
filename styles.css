@@ -1,0 +1,61 @@
+        body{
+            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #ffcdf3;
+            color: #350d24;
+        }
+        header{
+            background-color: #d92d86;
+            color: white;
+            text-align: center;
+        }
+
+        header h1{
+            font-size:36px;
+            font-weight: bold;
+            color: white;
+        }
+
+        #titulo-principal {
+            text-align: center;
+            font-size: 36px;
+            color: white;
+        }
+
+        main {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h2{
+            color:#851850;
+            font-size:28px;
+            font-weight:normal;
+        }
+
+        p, li{
+            font-size:17px;
+        }
+
+        .hobby-destaque {
+            font-weight: bold;
+            background-color: #ffe6f0;
+            padding: 5px;
+            border-radius: 5px;
+        }
+
+        footer {
+            color: #d92d86;
+            text-align: center;
+        }
+
+        footer a {
+            color: #d92d86;
+            text-decoration: none;
+            margin: 0 10px;
+            font-weight: bold;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
